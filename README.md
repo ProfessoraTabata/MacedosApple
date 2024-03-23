@@ -1,7 +1,4 @@
 # Macedo's Apple
-
-![Macedo's Apple Logo](link_para_o_logo.png)
-
 Macedo's Apple é um site de vendas de produtos eletrônicos, especializado em produtos da Apple. O site oferece uma variedade de produtos, desde iPhones e iPads até MacBooks e acessórios.
 
 ## Tecnologias Utilizadas
@@ -40,18 +37,17 @@ O projeto Macedo's Apple consiste em um site responsivo e interativo, projetado 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/macedos-apple.git
+git clone https://github.com/ProfessoraTabata/MacedosApple.git
+```
 
 Navegue até o diretório do projeto:
-bash
-Copy code
-cd macedos-apple
+```bash
+cd MacedosApple
+```
 Abra o arquivo index.html em um navegador da web.
-Link do Projeto Hospedado
-O Macedo's Apple está hospedado na Vercel. Você pode acessá-lo aqui.
 
-Contribuindo
+O Macedo's Apple está hospedado na Vercel. Você pode acessá-lo aqui: 
+
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
