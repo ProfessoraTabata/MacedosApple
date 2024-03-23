@@ -24,8 +24,7 @@ O projeto Macedo's Apple consiste em um site responsivo e interativo, projetado 
 
 ### Página de Detalhes do Produto
 
-- Exibe informações detalhadas sobre um produto específico, incluindo imagens, descrição, preço, etc.
-- Os usuários podem adicionar o produto ao carrinho a partir desta página.
+- Exibe informações genéricas sobre produtos da loja, como modelo e imagem do celular.
 
 ## Como Executar o Projeto Localmente
 
@@ -41,7 +40,7 @@ cd MacedosApple
 ```
 Abra o arquivo index.html em um navegador da web.
 
-O Macedo's Apple está hospedado na Vercel. Você pode acessá-lo aqui: 
+O Macedo's Apple está hospedado na Vercel. Você pode acessá-lo aqui: https://macedos-apple.vercel.app/
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
