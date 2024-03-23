@@ -27,11 +27,6 @@ O projeto Macedo's Apple consiste em um site responsivo e interativo, projetado 
 - Exibe informações detalhadas sobre um produto específico, incluindo imagens, descrição, preço, etc.
 - Os usuários podem adicionar o produto ao carrinho a partir desta página.
 
-### Carrinho de Compras
-
-- Mostra os itens atualmente no carrinho de compras do usuário.
-- Permite que os usuários removam itens, atualizem a quantidade e prossigam para o checkout.
-
 ## Como Executar o Projeto Localmente
 
 1. Clone este repositório:
